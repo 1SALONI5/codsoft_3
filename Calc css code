@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(83, 80, 80);
+    
+}
+h1{
+    background-color: black;
+    color: orangered;
+    text-align: center;
+    padding: 20px;
+
+}
+.container{
+    background-color: black;
+    margin: auto;
+    width: 300px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}.box{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+button{
+    height: 65px;
+    width: 65px;
+    font-size: 20px;
+    padding: 15px;
+}
+input{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-bottom: 1px solid rgb(168, 166, 166);
+    height: 60px;
+    width: 200px;
+    text-align: right;
+    font-size: 30px;
+}
+.function{
+    background-color: black ;
+    color: orangered;
+    border: none;
+}
+.number{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+}
